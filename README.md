@@ -10,6 +10,7 @@ The technologies worked were:
 
 * HTML5
 * CSS3
+* JS
 * Git/GitHub
 
 </br>
