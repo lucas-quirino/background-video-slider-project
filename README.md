@@ -1,21 +1,17 @@
-# Background video-slider
+# Background video-slider 🎬📽🎥
 
-Website created using background videos.
 
-</br>
+## Website created using background videos.
 
-The technologies worked were:
+<br>
 
-</br>
+### In this work I was able to practice:
 
 * HTML5
 * CSS3
+* JavaScript
 * JS
-* Git/GitHub
 
-</br>
+<br>
 
-<p align="center">
-    <img src="assets/img/readme-img.png" alt="Template, background video."/>
-  </a>
-</p>
+![Background video-slider](assets/img/readme-img.png)
